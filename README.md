@@ -9,9 +9,13 @@ Stack Visualizer
 3. Group Members
 
 Batucan, Cyril Joseph
+
 Cona, Sanie
+
 Oro, Herc
+
 Sebial, Shine Chielo
+
 Senerez, Trishia Kazumi 
 
 4. Description of the Program
